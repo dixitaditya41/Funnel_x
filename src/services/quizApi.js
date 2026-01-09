@@ -1,4 +1,5 @@
-const API_URL = 'https://opentdb.com/api.php?amount=15';
+// OpenTDB API - Sports category (ID: 21)
+const API_URL = 'https://opentdb.com/api.php?amount=15&category=21';
 
 /**
  * Fetches quiz questions from OpenTDB API
