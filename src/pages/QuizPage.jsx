@@ -97,7 +97,7 @@ const QuizPage = () => {
                                 </svg>
                             </div>
                             <div>
-                                <h1 className="text-xl font-display font-bold text-white">Football Quiz</h1>
+                                <h1 className="text-xl font-display font-bold text-white">Sports Quiz</h1>
                                 <p className="text-sm text-stadium-400">{email}</p>
                             </div>
                         </div>

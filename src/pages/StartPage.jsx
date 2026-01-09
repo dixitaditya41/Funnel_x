@@ -65,7 +65,7 @@ const StartPage = () => {
                         </svg>
                     </div>
                     <h1 className="text-5xl md:text-6xl font-display font-black text-white mb-3">
-                        Football
+                        Sports
                         <span className="text-pitch-500"> Quiz</span>
                     </h1>
                     <p className="text-stadium-300 text-lg font-medium">
