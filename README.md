@@ -6,7 +6,6 @@ A production-grade, football-themed quiz application built with React, Vite, and
 
 ## 🎯 Live Demo
 
-[View Live Application](#) <!-- Add your deployment URL here -->
 [https://casualquiz-app.netlify.app](url)
 
 ## ✨ Features
